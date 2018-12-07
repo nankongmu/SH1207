@@ -7,7 +7,7 @@ public class MasterAction {
 
 	
 	public void masterA(){
-		System.out.println("masterA");
+		System.out.println("masterA21211");
 	}
 	public void masterB(){
 		System.out.println("masterB");
